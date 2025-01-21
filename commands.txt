@@ -1,0 +1,9 @@
+git                                                                  (to check whether git is downloaded or not)
+git init                                                             (to initialize git)
+git add example.html //filename 
+git commit -m "Message that describes file name"                     (to commit the file)
+git status
+git config --global user.email "23r01a05g5@cmrithyderabad.edu.in"    //email
+git config --global user.name "Mounika5g5"                           //username
+git remote add origin https://github.com/Mounika5g5/exp1.git         (paste link from github)
+git push -u origin master  (to push the code)
